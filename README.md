@@ -18,7 +18,7 @@ Mod本体页面：[TheMysticSword/Localyssation](https://github.com/TheMysticSwo
 3. 找到游戏根目录，进入 **BepInEx\plugins** ，将 **TheMysticSword-Localyssation.zip** 中的所有文件解压到一个同名文件夹中。
 4. 将汉化补丁解压到**plugins**文件夹下，确保没有文件夹嵌套。
 
-### 视频版
+### 懒人包安装视频:
 [【ATLYSS】汉化懒人包安装教程！人工精翻](https://www.bilibili.com/video/BV1WgBjYREQV/)
 
 已知问题
