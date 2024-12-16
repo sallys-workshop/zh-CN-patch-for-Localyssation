@@ -5,6 +5,8 @@ A zh-CN support patch by _Sally's workshop_, for Localyssation, a localization m
 
 **Mod本体**页面：[TheMysticSword/Localyssation](https://github.com/TheMysticSword/Localyssation/tree/main)
 
+![zh-CN preview](https://github.com/user-attachments/assets/4a38a4b2-b3cc-40a1-804e-cc8baaf7003b)
+
 安装说明
 --
 ### 文字版：
