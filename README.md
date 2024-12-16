@@ -3,7 +3,7 @@ ATLYSS本地化模组Localyssation的简体中文包。汉化组：莎莉小店
 
 A zh-CN support patch by _Sally's workshop_, for Localyssation, a localization mod for ATLYSS.
 
-Mod本体页面：[TheMysticSword/Localyssation](https://github.com/TheMysticSword/Localyssation/tree/main)
+**Mod本体**页面：[TheMysticSword/Localyssation](https://github.com/TheMysticSword/Localyssation/tree/main)
 
 安装说明
 --
@@ -30,6 +30,7 @@ Mod本体页面：[TheMysticSword/Localyssation](https://github.com/TheMysticSwo
 致谢
 --
 **Localyssation开发者**：ThyMysticSword
+
 **莎莉小店**汉化组成员：
 - 兆巫
 - 芝麻糊
