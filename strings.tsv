@@ -1,4 +1,212 @@
 key	value
+SKILL_KILLER_JAB_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。对目标施加中毒效果，降低目标<color=yellow>10</color>点防御力和<color=yellow>20%</color>移动速度。
+SKILL_PAY_DAY_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害，并使被击中敌人掉落<color=yellow> 1 枚克朗</color>。
+SKILL_SCEPTER_MASTERY_RANK_3_DESCRIPTOR	解锁法杖蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗 8 点魔力值。</color>
+SKILL_BULWARK_RANK_1_DESCRIPTOR	减少<color=yellow>15%</color>格挡所消耗的耐力。
+FORMAT_SKILL_TOOLTIP_ITEM_COST	x{0} {1}
+SKILL_SPIRE_RANK_2_DESCRIPTOR	生成<color=yellow>6枚尖刺。</color>每枚尖刺造成 $SKP 点伤害，并有<color=yellow>12%</color>几率附加流血效果。
+SKILL_VENOM_SHOT_RANK_3_DESCRIPTOR	降低命中目标的防御力<color=yellow>6</color>点。造成 ￥SKP 点初始伤害，随后每3秒造成 $RAP 点伤害。
+SKILL_NOVA_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。35% 击退强度。
+SKILL_BLOOD_GUSH_RANK_4_DESCRIPTOR	造成 ￥SKP 点伤害，随后每1.8秒造成 $ATP 点伤害。
+SKILL_REFLECT_RANK_3_DESCRIPTOR	将受到的<color=yellow>120%</color>近战伤害返还给目标。
+SKILL_RANK_SOULBOUND	灵魂绑定
+SKILL_ALACRITY_RANK_3_DESCRIPTOR	$CASTTIME\n
+SKILL_LETHAL_STRIKE_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。$CASTTIME
+SKILL_BOMB_TRAP_RANK_3_DESCRIPTOR	对<color=yellow>大半径</color>范围内的的敌人造成 $SKP 点伤害。
+SKILL_FLUXBOLT_RANK_5_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成4次伤害。</color>
+SKILL_CYCLONE_RANK_1_DESCRIPTOR	造成最高 $SKP 点持续伤害。
+SKILL_TOOLTIP_RANK_DESCRIPTOR_CONDITION_CANCEL_ON_HIT	<color=yellow>击中敌人后取消。</color>
+SKILL_SPREAD_SHOT_RANK_2_DESCRIPTOR	发射<color=yellow>5支</color>箭矢，造成 $SKP 点伤害。
+SKILL_PAY_DAY_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害，并使被击中敌人掉落<color=yellow> 3 枚克朗</color>。
+SKILL_FIREBALL_RANK_1_DESCRIPTOR	<color=yellow>发射1个火球，</color>造成 $SKP 伤害。<color=yellow>5%</color>概率施加燃烧状态，每3秒造成 $MKP 伤害。
+QUEST_KILLING_TOMB_NAME	扫荡陵墓
+SKILL_KATAR_MASTERY_RANK_1_DESCRIPTOR	解锁拳刃的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗5点耐力。</color>
+SKILL_BLINK_RANK_1_DESCRIPTOR	<color=yellow>短距离</color>闪现。消耗<color=yellow>5</color>点魔力值。双击冲刺键以闪现。
+SKILL_PRISM_RANK_2_DESCRIPTOR	
+SKILL_STOMP_RANK_4_DESCRIPTOR	造成 $SKP 点<color=yellow>大范围</color>伤害。\n使目标移动速度降低<color=yellow>25%,</color>物理防御力降低<color=yellow>15</color>。
+SKILL_BOMB_TRAP_RANK_2_DESCRIPTOR	对<color=yellow>中等半径</color>范围内的的敌人造成 $SKP 点伤害。
+SKILL_SPIRE_RANK_1_DESCRIPTOR	生成<color=yellow>3枚尖刺。</color>每枚尖刺造成 $SKP 点伤害，并有<color=yellow>12%</color>几率附加流血效果。
+SKILL_CROSS_RANK_4_DESCRIPTOR	引发<color=yellow>巨大</color>范围爆炸，造成 $SKP 点初始伤害。降低命中目标的<color=yellow>20</color>点魔法防御力。
+SKILL_VOLLEY_RANK_1_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+SKILL_PAY_DAY_RANK_4_DESCRIPTOR	造成 $SKP 点初始伤害，并使被击中敌人掉落<color=yellow> 4 枚克朗</color>。
+CREEP_VALDUR_NAME	
+FORMAT_SKILL_TOOLTIP_MANA_COST	{0} 魔力值
+SKILL_FLUXBOLT_RANK_7_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成4次伤害。</color>
+SKILL_BELL_MASTERY_RANK_2_DESCRIPTOR	解锁魔法铃铛的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。\n<color=yellow>消耗 15 点魔力值。</color>
+SKILL_KILLER_JAB_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害。对目标施加中毒效果，降低目标<color=yellow>10</color>点防御力和<color=yellow>20%</color>移动速度。
+SKILL_RANGED_MASTERY_RANK_1_DESCRIPTOR	提升10%远程武器攻击速度。
+SKILL_MELEE_MASTERY_RANK_2_DESCRIPTOR	解锁单手武器的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗5点耐力。</color>除此之外，改良单手武器的跳跃攻击。
+SKILL_PRISM_RANK_5_DESCRIPTOR	
+SKILL_DEVIOUS_SIGNET_RANK_6_DESCRIPTOR	
+SKILL_SHIELD_BASH_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害，并使击中的目标眩晕<color=yellow>1秒。</color>
+SKILL_STOMP_RANK_2_DESCRIPTOR	造成 $SKP 点<color=yellow>小范围</color>伤害。\n使目标移动速度降低<color=yellow>25%，</color>物理防御力降低<color=yellow>15</color>。
+SKILL_DEVIOUS_SIGNET_RANK_5_DESCRIPTOR	
+SKILL_IMBUE_RANK_3_DESCRIPTOR	
+SKILL_RESTORA_RANK_2_DESCRIPTOR	治疗施法者以及其周围盟友 $SKP 点生命值。
+SKILL_INNER_FOCUS_RANK_1_DESCRIPTOR	$CASTTIME
+SKILL_MIST_VEIL_RANK_1_DESCRIPTOR	
+SKILL_RAGE_RANK_2_DESCRIPTOR	
+SKILL_CROSS_RANK_3_DESCRIPTOR	引发<color=yellow>大</color>范围爆炸，造成 $SKP 点初始伤害。降低命中目标的<color=yellow>15</color>点魔法防御力。
+SKILL_EXECUTE_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。对血量低于<color=yellow>30%</color>的目标有<color=yellow>10%</color>的几率直接击杀。
+SKILL_RECOVERY_RANK_2_DESCRIPTOR	
+SKILL_SIPHON_LEECH_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害，并每秒造成 $MKP 点吸血伤害。
+SKILL_CRYO_NEEDLE_RANK_2_DESCRIPTOR	发射<color=yellow>4枚</color>冰刺，每枚造成 $SKP 点伤害，有<color=yellow>10%</color>的几率施加冻缓状态。
+SKILL_RECOVERY_RANK_1_DESCRIPTOR	
+SKILL_STOMP_RANK_3_DESCRIPTOR	造成 $SKP 点<color=yellow>中范围</color>伤害。\n使目标移动速度降低<color=yellow>25%,</color>物理防御力降低<color=yellow>15</color>。
+SKILL_BULWARK_RANK_4_DESCRIPTOR	减少<color=yellow>60%</color>格挡所消耗的耐力。\n\n延长<color=yellow>0.4秒</color>招架的有效时间与招架成功后敌人的晕眩时间。
+SKILL_CROSS_RANK_2_DESCRIPTOR	引发<color=yellow>中</color>范围爆炸，造成 $SKP 点初始伤害。降低命中目标的<color=yellow>10</color>点魔法防御力。
+SKILL_POLEARM_MASTERY_RANK_1_DESCRIPTOR	解锁长兵的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗5点耐力。</color>
+SKILL_VOLLEY_RANK_3_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+SKILL_SHIELD_BASH_RANK_4_DESCRIPTOR	造成 $SKP 点初始伤害，并使击中的目标眩晕<color=yellow>2.5秒。</color>
+SKILL_SPREAD_SHOT_RANK_3_DESCRIPTOR	发射<color=yellow>7支</color>箭矢，造成 $SKP 点伤害。
+SKILL_KILLER_JAB_RANK_5_DESCRIPTOR	造成 $SKP 点初始伤害。对目标施加中毒效果，降低目标<color=yellow>10</color>点防御力和<color=yellow>20%</color>移动速度。
+SKILL_BELL_MASTERY_RANK_1_DESCRIPTOR	解锁魔法铃铛的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。\n<color=yellow>消耗 20 点魔力值。</color>
+FORMAT_SKILL_RANK	[等级 {0} / {1}]
+SKILL_LEG_UP_RANK_1_DESCRIPTOR	
+SKILL_BULWARK_RANK_2_DESCRIPTOR	减少<color=yellow>25%</color>格挡所消耗的耐力。
+FORMAT_SKILL_TOOLTIP_RANK_DESCRIPTOR_CURRENT_RANK	\n<color=white><i>[等级 {0} ]</i></color>
+SKILL_RESTORA_RANK_3_DESCRIPTOR	治疗施法者以及其周围盟友 $SKP 点生命值。
+SKILL_EXECUTE_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害。对血量低于<color=yellow>30%</color>的目标有<color=yellow>20%</color>的几率直接击杀。
+SKILL_IMBUE_RANK_4_DESCRIPTOR	
+SKILL_BULWARK_RANK_3_DESCRIPTOR	减少<color=yellow>50%</color>格挡所消耗的耐力。
+SKILL_BLINK_RANK_2_DESCRIPTOR	<color=yellow>中距离</color>闪现。消耗<color=yellow>5</color>点魔力值。双击冲刺键以闪现。 
+SKILL_SCEPTER_MASTERY_RANK_2_DESCRIPTOR	解锁法杖蓄力攻击。按住 $CHARGEATKINPUT 来进行蓄力攻击。<color=yellow>消耗 10 点魔力值。</color>
+SKILL_REFLECT_RANK_2_DESCRIPTOR	将受到的<color=yellow>80%</color>近战伤害返还给目标.
+SKILL_RAGE_RANK_3_DESCRIPTOR	
+SKILL_AGILE_TECHNIQUE_RANK_2_DESCRIPTOR	<color=yellow>解锁三段跳。</color>\n\n<color=yellow>解锁弹跃动作。</color>长按冲刺进行弹跃。<color=yellow>消耗10点耐力。</color>
+SKILL_SPREAD_SHOT_RANK_1_DESCRIPTOR	发射<color=yellow>3支</color>箭矢，造成 $SKP 点伤害。
+SKILL_TOOLTIP_CAST_TIME_INSTANT	即刻释放
+SKILL_LIFE_TAP_RANK_1_DESCRIPTOR	恢复所有魔力值。消耗等同于施术者最大生命<color=yellow>50%</color>的生命值。
+SKILL_LIFE_TAP_RANK_3_DESCRIPTOR	恢复所有魔力值。消耗等同于施术者最大生命<color=yellow>40%</color>的生命值。
+FORMAT_SKILL_TOOLTIP_DAMAGE_TYPE	{0} 技能
+SKILL_H_MELEE_MASTERY_RANK_1_DESCRIPTOR	解锁重武器的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗10点耐力。</color>
+SKILL_PRISM_RANK_4_DESCRIPTOR	
+SKILL_MELEE_MASTERY_RANK_1_DESCRIPTOR	解锁单手武器的蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗5点耐力。</color>
+QUEST_KILLING_TOMB_COMPLETE_RETURN_MESSAGE	回到圣地去见伊诺克。
+TAB_MENU_CELL_SKILLS_CLASS_TAB_TOOLTIP_NOVICE	通用技能
+TAB_MENU_CELL_SKILLS_CLASS_TAB_TOOLTIP	{0} 技能
+FORMAT_SKILL_TOOLTIP_CAST_TIME	{0}秒咏唱时间
+SKILL_SHIELD_BASH_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害，并使击中的目标眩晕<color=yellow>2秒。</color>
+SKILL_FLUXBOLT_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成3次伤害。</color>
+SKILL_RECOVERY_RANK_4_DESCRIPTOR	
+SKILL_TALUS_RANK_1_DESCRIPTOR	
+SKILL_BOMB_TRAP_RANK_1_DESCRIPTOR	对<color=yellow>小半径</color>范围内的的敌人造成 $SKP 点伤害。
+SKILL_BOMB_TRAP_RANK_4_DESCRIPTOR	对<color=yellow>巨大半径</color>范围内的的敌人造成 $SKP 点伤害。
+SKILL_RAGE_RANK_5_DESCRIPTOR	
+SKILL_RECALL_RANK_1_DESCRIPTOR	传送玩家至圣地。\n要进行召回的咏唱，按下 $RECALLINPUT 。
+SKILL_SHIELD_BASH_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害，并使击中的目标眩晕<color=yellow>1.5秒。</color>
+SKILL_PRISM_RANK_3_DESCRIPTOR	
+SKILL_CYCLONE_RANK_5_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+SKILL_NOVA_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。45% 击退强度。
+SKILL_RECOVERY_RANK_3_DESCRIPTOR	
+SKILL_BOUNCE_RANK_1_DESCRIPTOR	按住冲刺输入以进行弹跃。<color=yellow>消耗 10 点耐力值。</color>
+SKILL_CYCLONE_RANK_4_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+SKILL_FIREBALL_RANK_2_DESCRIPTOR	<color=yellow>发射2个火球，</color>造成 $SKP 伤害。<color=yellow>10%</color>概率施加燃烧状态，每3秒造成 $MKP 伤害。
+SKILL_ALACRITY_RANK_1_DESCRIPTOR	$CASTTIME\n
+SKILL_FIREBALL_RANK_3_DESCRIPTOR	<color=yellow>发射3个火球，最后1个火球会环绕施法者。</color>造成 $SKP 伤害。<color=yellow>15%</color>概率施加燃烧状态，每3秒造成 $MKP 伤害。
+SKILL_RAGE_RANK_4_DESCRIPTOR	
+SKILL_BLOOD_GUSH_RANK_1_DESCRIPTOR	造成 ￥SKP 点伤害，随后每1.8秒造成 $ATP 点伤害。
+SKILL_CYCLONE_RANK_3_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+SKILL_BLOOD_GUSH_RANK_2_DESCRIPTOR	造成 ￥SKP 点伤害，随后每1.8秒造成 $ATP 点伤害。
+SKILL_STURDY_RANK_1_DESCRIPTOR	
+QUEST_KILLING_TOMB_DESCRIPTION	你即将目睹邪恶的暴行，流离者。<color=cyan>附近的圣所陵墓已经喧嚣有一阵子了，</color>但我没有时间或耐心处理他们的胡作非为。\n\n这是你向这个世界证明价值的第一个挑战。<color=yellow>迅速前往地下墓穴，杀死10只小幽魂和2只幽魂。</color>一旦你完成了这次测试，我便知道你有能力胜任未来的任务。\n\n<color=cyan>记得向安吉拉寻求进一步的指示。没有她的帮助，你连圣地都出不去。</color>\n
+SKILL_CRYO_NEEDLE_RANK_1_DESCRIPTOR	发射<color=yellow>3枚</color>冰刺，每枚造成 $SKP 点伤害，有<color=yellow>10%</color>的几率施加冻缓状态。
+SKILL_NOVA_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害。55% 击退强度。
+SKILL_STURDY_RANK_3_DESCRIPTOR	
+SKILL_FLUXSPEAR_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。击晕目标<color=yellow>1.2秒。</color>
+SKILL_SIPHON_LEECH_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害，并每秒造成 $MKP 点吸血伤害。
+SKILL_LIFE_TAP_RANK_2_DESCRIPTOR	恢复所有魔力值。消耗等同于施术者最大生命<color=yellow>45%</color>的生命值。
+SKILL_FLUXSPEAR_RANK_3_DESCRIPTOR	造成 $SKP 点初始伤害。击晕目标<color=yellow>1.6秒。</color>
+SKILL_KILLER_JAB_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。对目标施加中毒效果，降低目标<color=yellow>10</color>点防御力和<color=yellow>20%</color>移动速度。
+SKILL_STURDY_RANK_2_DESCRIPTOR	
+SKILL_PAY_DAY_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害，并使被击中敌人掉落<color=yellow> 2 枚克朗</color>。
+SKILL_RESTORA_RANK_1_DESCRIPTOR	治疗施法者以及其周围盟友 $SKP 点生命值。
+SKILL_DEVIOUS_SIGNET_RANK_3_DESCRIPTOR	
+SKILL_RAGE_RANK_1_DESCRIPTOR	
+SKILL_BLOOD_GUSH_RANK_3_DESCRIPTOR	造成 ￥SKP 点伤害，随后每1.8秒造成 $ATP 点伤害。
+SKILL_FLUXBOLT_RANK_6_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成4次伤害。</color>
+SKILL_LEG_UP_RANK_2_DESCRIPTOR	
+SKILL_VENOM_SHOT_RANK_5_DESCRIPTOR	降低目标<color=yellow> 15 </color>点物理防御力。造成 $SKP 点初始伤害，随后每 3 秒造成 $RAP 点伤害。
+SKILL_VOLLEY_RANK_2_DESCRIPTOR	造成最多 $SKP 的持续伤害。
+SKILL_SPIRE_RANK_3_DESCRIPTOR	生成<color=yellow>9枚尖刺。</color>每枚尖刺造成 $SKP 点伤害，并有<color=yellow>12%</color>几率附加流血效果。
+SKILL_INNER_FOCUS_RANK_3_DESCRIPTOR	$CASTTIME
+SKILL_FLAK_RANK_1_DESCRIPTOR	
+SKILL_DEVIOUS_SIGNET_RANK_2_DESCRIPTOR	
+SKILL_ROCK_TOSS_RANK_1_DESCRIPTOR	造成 $SKP 点伤害。 $COOLDWN
+SKILL_IMBUE_RANK_2_DESCRIPTOR	
+FORMAT_SKILL_TOOLTIP_RANK_DESCRIPTOR_REQUIRED_LEVEL	<color=red>\n（需要等级 {0}）</color>
+SKILL_RAGE_RANK_6_DESCRIPTOR	
+SKILL_ALACRITY_RANK_2_DESCRIPTOR	$CASTTIME\n
+SKILL_MANAFLOW_RANK_3_DESCRIPTOR	提升<color=yellow>48%</color>的魔力值再生速度。
+SKILL_RANGED_MASTERY_RANK_2_DESCRIPTOR	提升15%远程武器攻击速度。
+TAB_MENU_CELL_SKILLS_SKILL_POINT_COUNTER	技能点数
+SKILL_VENOM_SHOT_RANK_4_DESCRIPTOR	降低命中敌人的防御<color=yellow>12点。</color>造成$SKP点初始伤害，随后每3秒造成 $RAP 点伤害。
+FORMAT_SKILL_TOOLTIP_RANK_DESCRIPTOR_CONDITION_DURATION	<color=yellow>持续时间为 {0} 秒。</color>
+SKILL_DEVIOUS_SIGNET_RANK_4_DESCRIPTOR	
+SKILL_FLUXSPEAR_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。击晕目标<color=yellow>0.8秒。</color>
+SKILL_TOOLTIP_RANK_DESCRIPTOR_CONDITION_IS_PERMANENT	<color=yellow>永久。</color>
+TAB_MENU_CELL_SKILLS_CLASS_HEADER_NOVICE	通用技能书
+SKILL_MIST_VEIL_RANK_3_DESCRIPTOR	
+SKILL_TOOLTIP_RANK_DESCRIPTOR_NEXT_RANK	\n<color=white><i>[下一等级]</i></color>
+SKILL_IMBUE_RANK_1_DESCRIPTOR	
+SKILL_MANAFLOW_RANK_4_DESCRIPTOR	提升<color=yellow>60%</color>的魔力值再生速度
+SKILL_LETHAL_STRIKE_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。$CASTTIME
+FORMAT_SKILL_TOOLTIP_RANK_DESCRIPTOR_CAST_TIME	<color=yellow>{0}秒咏唱时间。</color>
+SKILL_FLUXBOLT_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成2次伤害。</color>
+SKILL_CRYO_NEEDLE_RANK_3_DESCRIPTOR	发射<color=yellow>5枚</color>冰刺，每枚造成 $SKP 点伤害，有<color=yellow>10%</color>的几率施加冻缓状态。
+SKILL_KATAR_MASTERY_RANK_2_DESCRIPTOR	解锁拳刃蓄力攻击。按住 $CHARGEATKINPUT 来进行蓄力攻击。<color=yellow>消耗5点耐力。</color>除此之外，改良拳刃跳跃攻击。
+TAB_MENU_CELL_SKILLS_HEADER	技能
+SKILL_MANAFLOW_RANK_2_DESCRIPTOR	提升<color=yellow>24%</color>的魔力值再生速度。
+SKILL_DIVINE_RANK_3_DESCRIPTOR	生成一处圣域，每0.4秒对范围内的敌人造成$SKP点伤害，并恢复范围内友方的生命值。持续<color=yellow>5.25秒。</color>
+SKILL_VENOM_SHOT_RANK_1_DESCRIPTOR	降低命中敌人的防御<color=yellow>3</color>点。造成 $SKP 点初始伤害，随后每3秒造成 $RAP 点伤害。
+SKILL_KILLER_JAB_RANK_4_DESCRIPTOR	造成 $SKP 点初始伤害。对目标施加中毒效果，降低目标<color=yellow>10</color>点防御力和<color=yellow>20%</color>移动速度。
+SKILL_FLUXBOLT_RANK_4_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成4次伤害。</color>
+SKILL_TOOLTIP_RANK_DESCRIPTOR_CONDITION_IS_REFRESHABLE	<color=yellow>再次获得次效果会刷新持续时间。</color>
+SKILL_SIPHON_LEECH_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害，并每秒造成 $MKP 点吸血伤害。
+SKILL_AGILE_TECHNIQUE_RANK_3_DESCRIPTOR	<color=yellow>解锁三段跳。</color>\n\n<color=yellow>解锁弹跃动作。</color>长按冲刺进行弹跃。<color=yellow>消耗10点耐力。</color>\n\n<color=yellow>解锁冲刺的飞跃衍生。</color>双击冲刺进行飞跃。<color=yellow>消耗3点耐力。</color>
+SKILL_DIVINE_RANK_2_DESCRIPTOR	生成一处圣域，每0.4秒对范围内的敌人造成$SKP点伤害，并恢复范围内友方的生命值。持续<color=yellow>4.25秒。</color>
+SKILL_DEVIOUS_SIGNET_RANK_1_DESCRIPTOR	
+SKILL_TOOLTIP_RANK_DESCRIPTOR_CONDITION_IS_STACKABLE	<color=yellow>可充能。</color>
+SKILL_AGILE_TECHNIQUE_RANK_1_DESCRIPTOR	<color=yellow>解锁三段跳。</color>
+SKILL_LETHAL_STRIKE_RANK_3_DESCRIPTOR	Deals $SKP initial damage. $CASTTIME\n
+FORMAT_SKILL_TOOLTIP_RANK_DESCRIPTOR_COOLDOWN	<color=yellow>{0}秒冷却时间。</color>
+SKILL_BELL_MASTERY_RANK_3_DESCRIPTOR	解锁魔法铃铛蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。\n<color=yellow>消耗 10 点魔力值。</color>
+SKILL_IMBUE_RANK_5_DESCRIPTOR	
+SKILL_RANGED_MASTERY_RANK_3_DESCRIPTOR	将远程武器的攻击速度提升20%\n\n解锁远程武器蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗 5 点体力。</color>
+SKILL_ROCK_TOSS_RANK_2_DESCRIPTOR	造成 $SKP 点伤害。 $COOLDWN
+SKILL_BLINK_RANK_3_DESCRIPTOR	<color=yellow>长距离</color>闪现。消耗<color=yellow>5</color>点魔力值。双击冲刺键以闪现。
+SKILL_MANAFLOW_RANK_1_DESCRIPTOR	提升<color=yellow>12%</color>的魔力值再生速度。 
+SKILL_FLUXBOLT_RANK_1_DESCRIPTOR	造成 $SKP 点初始伤害。<color=yellow>造成1次伤害。</color> 
+SKILL_H_MELEE_MASTERY_RANK_2_DESCRIPTOR	解锁近战重武器蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗 10 点体力。</color>除此之外，改良近战重武器跳跃攻击。
+SKILL_POLEARM_MASTERY_RANK_2_DESCRIPTOR	解锁长兵的蓄力攻击。长按$CHARGEATKINPUT进行蓄力攻击。<color=yellow>消耗5点耐力。</color>除此之外，改良长兵的跳跃攻击。
+SKILL_DIVINE_RANK_1_DESCRIPTOR	生成一处圣域，每0.4秒对范围内的敌人造成$SKP点伤害，并恢复范围内友方的生命值。持续<color=yellow>3.25秒。</color>
+TAB_MENU_CELL_SKILLS_CLASS_HEADER	{0} 技能书
+SKILL_ROCK_TOSS_RANK_3_DESCRIPTOR	造成 $SKP 点伤害。 $COOLDWN
+SKILL_CYCLONE_RANK_2_DESCRIPTOR	造成最多 $SKP 点持续伤害。
+CREEP_VALDUR_NAME_VARIANT_MANY	
+FORMAT_SKILL_TOOLTIP_COOLDOWN	{0} 秒冷却时间
+SKILL_CROSS_RANK_1_DESCRIPTOR	引发<color=yellow>小</color>范围爆炸，造成 $SKP 点初始伤害。降低命中目标的<color=yellow>5</color>点魔法防御力。
+SKILL_MIST_VEIL_RANK_4_DESCRIPTOR	
+SKILL_EXECUTE_RANK_2_DESCRIPTOR	造成 $SKP 点初始伤害。对血量低于<color=yellow>30%</color>的目标有<color=yellow>15%</color>的几率直接击杀。
+SKILL_PRISM_RANK_1_DESCRIPTOR	
+SKILL_MANAFLOW_RANK_5_DESCRIPTOR	提升<color=yellow>72%</color>的魔力值再生速度。
+SKILL_RESTORA_RANK_4_DESCRIPTOR	治疗施法者以及其周围盟友 $SKP 点生命值。
+SKILL_VENOM_SHOT_RANK_6_DESCRIPTOR	降低目标<color=yellow> 18 </color>点物理防御力。造成 $SKP 点初始伤害，随后每 3 秒造成 $RAP 点伤害。
+FORMAT_SKILL_TOOLTIP_HEALTH_COST	{0} 生命值
+SKILL_TOOLTIP_PASSIVE	被动技能
+SKILL_STOMP_RANK_1_DESCRIPTOR	造成 $SKP 点<color=yellow>微小范围</color>伤害。使目标移动速度降低<color=yellow>25%，</color>物理防御力降低<color=yellow>15</color>。
+SKILL_VENOM_SHOT_RANK_2_DESCRIPTOR	降低目标<color=yellow> 6 </color>点物理防御力。造成 $SKP 点初始伤害，随后每 3 秒造成 $RAP 点伤害。
+SKILL_GEYSER_RANK_1_DESCRIPTOR	
+SKILL_FLUXSPEAR_RANK_4_DESCRIPTOR	造成 $SKP 点初始伤害，并使击中的目标眩晕<color=yellow>2秒。</color>
+SKILL_LEG_UP_RANK_3_DESCRIPTOR	
+SKILL_REFLECT_RANK_1_DESCRIPTOR	将受到的<color=yellow>40%</color>近战伤害返还给目标。
+SKILL_MIST_VEIL_RANK_2_DESCRIPTOR	
+FORMAT_SKILL_TOOLTIP_STAMINA_COST	{0} 耐力值
+SKILL_TOOLTIP_RANK_DESCRIPTOR_CAST_TIME_INSTANT	<color=yellow>即刻释放。</color>
+SKILL_SCEPTER_MASTERY_RANK_1_DESCRIPTOR	解锁法杖蓄力攻击。长按 $CHARGEATKINPUT 进行蓄力攻击。<color=yellow>消耗 12 点魔力值。</color>
+SKILL_RECOVERY_RANK_5_DESCRIPTOR	
+SKILL_INNER_FOCUS_RANK_2_DESCRIPTOR	$CASTTIME
+key	value
 GAME_LOADING	加载中……
 EXP_COUNTER_MAX	MAX
 MAIN_MENU_BUTTON_SINGLEPLAY	单人游戏
@@ -56,7 +264,7 @@ CHARACTER_CREATION_CUSTOMIZER_BODY_BELLY	腹部
 CHARACTER_CREATION_CUSTOMIZER_BODY_BOTTOM	臀部
 CHARACTER_CREATION_CUSTOMIZER_BODY_TAIL	尾巴
 CHARACTER_CREATION_CUSTOMIZER_BODY_TOGGLE_LEFT_HANDED	镜像身体
-CHARACTER_CREATION_CUSTOMIZER_HEADER_TRAIT	Trait
+CHARACTER_CREATION_CUSTOMIZER_HEADER_TRAIT	特质
 CHARACTER_CREATION_CUSTOMIZER_TRAIT_EQUIPMENT	装备
 CHARACTER_CREATION_CUSTOMIZER_TRAIT_WEAPON_LOADOUT	武器
 CHARACTER_CREATION_CUSTOMIZER_TRAIT_GEAR_DYE	染料
@@ -131,8 +339,8 @@ SETTINGS_INPUT_CELL_KEYBINDING_RIGHT	右
 SETTINGS_INPUT_CELL_KEYBINDING_JUMP	跳跃
 SETTINGS_INPUT_CELL_KEYBINDING_DASH	冲刺
 SETTINGS_INPUT_HEADER_STRAFING	横向移动
-SETTINGS_INPUT_CELL_KEYBINDING_LOCK_DIRECTION	Strafe
-SETTINGS_INPUT_CELL_KEYBINDING_STRAFE_MODE	Strafe / Aim Mode
+SETTINGS_INPUT_CELL_KEYBINDING_LOCK_DIRECTION	瞄准
+SETTINGS_INPUT_CELL_KEYBINDING_STRAFE_MODE	瞄准模式
 SETTINGS_INPUT_CELL_KEYBINDING_STRAFE_MODE_OPTION_1	按住锁定朝向键
 SETTINGS_INPUT_CELL_KEYBINDING_STRAFE_MODE_OPTION_2	切换锁定朝向键
 SETTINGS_INPUT_CELL_KEYBINDING_STRAFE_WEAPON	持武器时锁定朝向
@@ -163,7 +371,7 @@ SETTINGS_INPUT_CELL_KEYBINDING_QUICK_SLOT_05	快捷栏 5
 SETTINGS_INPUT_HEADER_INTERFACE	界面
 SETTINGS_INPUT_CELL_KEYBINDING_HOST_CONSOLE	服务器控制台
 SETTINGS_INPUT_CELL_KEYBINDING_LEXICON	打开词典
-SETTINGS_INPUT_CELL_KEYBINDING_TAB_MENU	Open Tab Menu
+SETTINGS_INPUT_CELL_KEYBINDING_TAB_MENU	打开快捷菜单
 SETTINGS_INPUT_CELL_KEYBINDING_STATS_TAB	属性界面
 SETTINGS_INPUT_CELL_KEYBINDING_SKILLS_TAB	技能界面
 SETTINGS_INPUT_CELL_KEYBINDING_ITEM_TAB	物品界面
@@ -176,7 +384,7 @@ SETTINGS_NETWORK_CELL_DISPLAY_CREEP_NAMETAGS	显示敌人名字
 SETTINGS_NETWORK_CELL_DISPLAY_LOCAL_NAMETAG	显示在线玩家名称
 SETTINGS_NETWORK_CELL_DISPLAY_HOST_TAG	在房主的角色上显示[房主]标签
 SETTINGS_NETWORK_CELL_HIDE_DUNGEON_MINIMAP	隐藏地牢小地图
-SETTINGS_NETWORK_CELL_HIDE_FPS_COUNTER	隐藏帧率
+SETTINGS_NETWORK_CELL_HIDE_FPS_COUNTER	 隐藏帧率
 SETTINGS_NETWORK_CELL_HIDE_PING_COUNTER	隐藏网络延迟
 SETTINGS_NETWORK_HEADER_CLIENT_SETTINGS	客户端设置
 SETTINGS_NETWORK_CELL_ENABLE_PVP_ON_MAP_ENTER	只有当 PvP 模式可用时
@@ -187,7 +395,7 @@ SETTINGS_BUTTON_APPLY	应用
 FORMAT_EQUIP_ITEM_RARITY	[{0}]
 FORMAT_EQUIP_LEVEL_REQUIREMENT	Lv-{0}
 FORMAT_EQUIP_CLASS_REQUIREMENT	职业：{0}
-FORMAT_EQUIP_WEAPON_CONDITION	\n<color=lime>- <color=yellow>{0}%</color> chance to apply {1}.</color>
+FORMAT_EQUIP_WEAPON_CONDITION	\n<color=lime>- <color=yellow>{0}%</color> 概率施加 {1}.</color>
 EQUIP_TOOLTIP_TYPE_HELM	头盔（装备）
 EQUIP_TOOLTIP_TYPE_CHESTPIECE	胸甲（装备）
 EQUIP_TOOLTIP_TYPE_LEGGINGS	护腿（装备）
@@ -285,7 +493,7 @@ ITEM_IRON_HALO_NAME	铁制光环
 ITEM_IRON_HALO_DESCRIPTION	
 ITEM_DEMICRYPT_HALO_NAME	半墓光环
 ITEM_DEMICRYPT_HALO_DESCRIPTION	掉落自堕天使之身。
-ITEM_ACOLYTE_HOOD_NAME	侍僧兜帽
+ITEM_ACOLYTE_HOOD_NAME	教徒兜帽
 ITEM_ACOLYTE_HOOD_DESCRIPTION	常有教徒戴着它。
 ITEM_DIRE_HELM_NAME	勇战头盔
 ITEM_DIRE_HELM_DESCRIPTION	它曾属于一位英勇的战士。
@@ -660,11 +868,11 @@ ITEM_WOODEN_BELL_DESCRIPTION	虽然这杆武器是木制的，但它的铃声有
 ITEM_IRON_BELL_NAME	铁制铃铛
 ITEM_IRON_BELL_DESCRIPTION	
 ITEM_TOME_OF_THE_BANDIT_NAME	盗贼秘籍
-ITEM_TOME_OF_THE_BANDIT_DESCRIPTION	<color=lime>只能在安全区使用</color>\n\n阅读此秘籍可以使你习得<color=lime>灵巧系的盗贼职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
+ITEM_TOME_OF_THE_BANDIT_DESCRIPTION	<color=lime>只能在安全区使用。</color>\n\n阅读此秘籍可以使你习得<color=lime>灵巧系的盗贼职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
 ITEM_TOME_OF_THE_FIGHTER_NAME	战士秘籍
-ITEM_TOME_OF_THE_FIGHTER_DESCRIPTION	<color=lime>只能在安全区使用</color>\n\n阅读此秘籍可以使你习得<color=red>力量系的战士职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
+ITEM_TOME_OF_THE_FIGHTER_DESCRIPTION	<color=lime>只能在安全区使用。</color>\n\n阅读此秘籍可以使你习得<color=red>力量系的战士职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
 ITEM_TOME_OF_THE_MYSTIC_NAME	秘术师秘籍
-ITEM_TOME_OF_THE_MYSTIC_DESCRIPTION	<color=lime>只能在安全区使用</color>\n\n阅读此秘籍可以使你习得<color=cyan>智力系的秘术师职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
+ITEM_TOME_OF_THE_MYSTIC_DESCRIPTION	<color=lime>只能在安全区使用。</color>\n\n阅读此秘籍可以使你习得<color=cyan>智力系的秘术师职业</color>同时还会重置并返还你的所有技能点，此后无法更改为其他职业。
 ITEM_BLUE_DYE_NAME	蓝色染料
 ITEM_BLUE_DYE_DESCRIPTION	一小瓶蓝色染料，可以将你的装备染成蓝色。
 ITEM_GREEN_DYE_NAME	绿色染料
@@ -718,7 +926,7 @@ ITEM_BUNJAR_DESCRIPTION	一大瓶治疗药膏。
 ITEM_BUNPOT_NAME	碗装疗膏
 ITEM_BUNPOT_DESCRIPTION	一小瓶治疗药膏。
 ITEM_CARROT_CAKE_NAME	胡萝卜蛋糕
-ITEM_CARROT_CAKE_DESCRIPTION	圣地里常常出现的美味小吃。
+ITEM_CARROT_CAKE_DESCRIPTION	圣地里常见的美味甜点。
 ITEM_MAGICLOVE_NAME	魔力果
 ITEM_MAGICLOVE_DESCRIPTION	滋养心灵的一大瓣花瓣。
 ITEM_MAGIFLOWER_NAME	魔力花
@@ -865,12 +1073,12 @@ CREEP_GOLEM_NAME	大型魔像
 CREEP_GOLEM_NAME_VARIANT_MANY	大型魔像
 CREEP_MONOLITH_NAME	巨石魔像
 CREEP_MONOLITH_NAME_VARIANT_MANY	巨石魔像
-CREEP_DEMIGOLEM_NAME	Demigolem
-CREEP_DEMIGOLEM_NAME_VARIANT_MANY	Demigolems
+CREEP_DEMIGOLEM_NAME	
+CREEP_DEMIGOLEM_NAME_VARIANT_MANY	
 CREEP_COLOSSUS_NAME	撼地巨像
 CREEP_COLOSSUS_NAME_VARIANT_MANY	撼地巨像
-CREEP_BROXXUS_NAME	Broxxus
-CREEP_BROXXUS_NAME_VARIANT_MANY	Broxxuss
+CREEP_BROXXUS_NAME	
+CREEP_BROXXUS_NAME_VARIANT_MANY	
 CREEP_MEKBOAR_NAME	突突猪
 CREEP_MEKBOAR_NAME_VARIANT_MANY	突突猪
 CREEP_BOOMBOAR_NAME	轰轰猪
@@ -1026,7 +1234,7 @@ QUEST_PURGING_THE_UNDEAD_NAME	肃清不死生物
 QUEST_PURGING_THE_UNDEAD_DESCRIPTION	<color=cyan>圣所陵墓就像一处无尽的炼狱，其用途就是逼迫圣地向他们臣服。</color>可惜，它们愚蠢到根本不明白自己在和谁作对。我对这些可悲的生物已经没多少耐心了。\n\n<color=cyan>你的灵魂已承载了我力量的一部分，而现在我们会让这些不死生物在痛苦中尖叫。</color><color=yellow>消灭25只剧毒鬼火，15只腐臭史莱姆，和30只幽魂。你可以在圣所陵墓中找到它们。</color>让这些不死生物好好记住，谁才是掌控这片土地的真正主人。\n
 QUEST_PURGING_THE_UNDEAD_COMPLETE_RETURN_MESSAGE	回到圣地去见伊诺克。
 QUEST_THE_VOICE_OF_ZUULNERUDA_NAME	祖纳鲁达之声
-QUEST_THE_VOICE_OF_ZUULNERUDA_DESCRIPTION	安静。<i>听见了吗？</i> 那从墓穴深处传来的隐隐讥笑声。<color=cyan>在那深处，他，正源源不断的使死者们复生。</color>\n\n<color=cyan>他叫祖纳鲁达，</color> 是一只幽魂之主。作为不死大军中地位较高的一员骨干，他必须被清除。<color=yellow>找到祖纳鲁达，杀了他。他盘踞于那被扭曲的陵墓中层。</color>\n\n快点，流离者…时间紧迫。<color=yellow>等你手上浸满他的鲜血，再来找我。</color>\n\n<color=cyan>[在（LV6-12）圣所陵墓击败幽魂之主-祖纳鲁达]</color>
+QUEST_THE_VOICE_OF_ZUULNERUDA_DESCRIPTION	安静。<i>听见了吗？</i> 那从墓穴深处传来的隐隐讥笑声。<color=cyan>在那深处，他，正源源不断的使死者们复生。</color>\n\n<color=cyan>他叫祖纳鲁达，</color> 是一只幽魂之主。作为不死大军中地位较高的一员骨干，他必须被清除。<color=yellow>找到祖纳鲁达，杀了他。他盘踞于那被扭曲的陵墓中层。</color>\n\n快点，流离者……时间紧迫。<color=yellow>等你手上浸满他的鲜血，再来找我。</color>\n\n<color=cyan>[在（LV6-12）圣所陵墓击败幽魂之主-祖纳鲁达]</color>
 QUEST_THE_VOICE_OF_ZUULNERUDA_COMPLETE_RETURN_MESSAGE	回到圣地去见伊诺克。
 QUEST_GHOSTLY_GOODS_NAME	与鬼魂讨价还价
 QUEST_GHOSTLY_GOODS_DESCRIPTION	哎呀，你不介意的话，我还真有点事儿需要你帮忙！<color=cyan>如果你愿意，我还会告诉你一个小秘密，不过可得替我保密哦！</color>\n\n我正在找一种特别的幽灵材料，<color=cyan>它能研磨成细腻的小粉末，可以让用了的人隐身！</color>\n\n所以，<color=yellow>帮我去弄点幽灵尘，那些不死生物身上应该能找到；还有一些幽魂项圈，就是幽魂戴的那种怪东西。</color>\n\n弄够了再回来找我，好吗？
@@ -1087,8 +1295,8 @@ QUEST_MAKIN_MORE_MEKSPEARS_DESCRIPTION	<color=cyan>又想要来弄把突突长�
 QUEST_MAKIN_MORE_MEKSPEARS_COMPLETE_RETURN_MESSAGE	回到圣地去见莎莉。
 CONDITION_BURN_NAME	烧伤
 CONDITION_BURN_1_DESCRIPTION	燃烧中。
-CONDITION_COLD_NAME	冰冻
-CONDITION_COLD_1_DESCRIPTION	冰冻中。
+CONDITION_COLD_NAME	冻缓
+CONDITION_COLD_1_DESCRIPTION	冻缓中。
 CONDITION_GASH_NAME	流血
 CONDITION_GASH_1_DESCRIPTION	每0.4秒造成3点流血伤害。
 CONDITION_POISON_NAME	中毒
@@ -1098,7 +1306,7 @@ CONDITION_VILEBLADE_POISON_1_DESCRIPTION	中毒中。
 CONDITION_WEAKENING_NAME	虚弱
 CONDITION_WEAKENING_0_DESCRIPTION	物理防御力降低5。
 CONDITION_CYRO_SLOW_NAME	迟缓
-CONDITION_CYRO_SLOW_0_DESCRIPTION	冰冻，移动速度变得缓慢。
+CONDITION_CYRO_SLOW_0_DESCRIPTION	冻缓，移动速度变得缓慢。
 CONDITION_DEFENSE_POTION_NAME	物防药水
 CONDITION_DEFENSE_POTION_0_DESCRIPTION	物理防御力提升5。
 CONDITION_DEFENSE_POTION_1_DESCRIPTION	物理防御力提升10。
@@ -1290,7 +1498,7 @@ SKILL_SPREAD_SHOT_NAME	分裂射击
 SKILL_SPREAD_SHOT_DESCRIPTION	发射一系列散开的子弹。<color=lime>需要持有远程武器。</color>
 SKILL_FLAK_NAME	高射炮
 SKILL_FLAK_DESCRIPTION	施放一阵飞沙走石。
-SKILL_TALUS_NAME	Talus
+SKILL_TALUS_NAME	
 SKILL_TALUS_DESCRIPTION	生成一块巨石，砸向地面。
 SKILL_AGILE_TECHNIQUE_NAME	敏捷技巧
 SKILL_AGILE_TECHNIQUE_DESCRIPTION	盗贼的动作变得更加杂技化，解锁了全新的移动方式。
@@ -1379,7 +1587,7 @@ WEAPON_TYPE_MAGIC_BELL_NAME	魔法铃铛
 DIALOGDATA_ANGELA_NAME_TAG	安琪拉
 DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_INPUT	嗯？
 DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_INPUT_ALT_0	嗯？
-DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_INPUT_ALT_1	行？
+DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_INPUT_ALT_1	嗯？
 DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_INPUT_ALT_2	哦？
 DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_SELECTION_0	没事...
 DIALOGDATA_ANGELA_BRANCH_0_DIALOG_0_SELECTION_1	我想知道关于...
@@ -1459,7 +1667,7 @@ DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_1	你是谁？
 DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_2	什么是战士？
 DIALOGDATA_ENOK_BRANCH_1_DIALOG_0_SELECTION_3	招架？
 DIALOGDATA_ENOK_BRANCH_2_DIALOG_0_INPUT	我是伊诺克，战士守护者。我即光明的利爪，必让敌人领略炼狱之苦。
-DIALOGDATA_ENOK_BRANCH_2_DIALOG_1_INPUT	你看着不是这世界的人。来得太晚了，现在它已日渐在被腐化。
+DIALOGDATA_ENOK_BRANCH_2_DIALOG_1_INPUT	你看着不像这个世界的人……你来晚了，现在它已日渐腐化。
 DIALOGDATA_ENOK_BRANCH_2_DIALOG_2_INPUT	唯有为证明自己不懈奋斗的灵魂，才配得到我的力量。
 DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_INPUT	我能感觉到你燃起了一丝斗志。切记，你若屈服于恐惧，那你必将失败。
 DIALOGDATA_ENOK_BRANCH_2_DIALOG_3_SELECTION_0	再见。
@@ -1593,7 +1801,7 @@ DIALOGDATA_SKRIT_BRANCH_2_DIALOG_0_INPUT	呃？可能斯克里特忘记给你说
 DIALOGDATA_SKRIT_BRANCH_2_DIALOG_1_INPUT	你给斯克里特一点钱，作为回报你就能拿到点好东西...
 DIALOGDATA_SKRIT_BRANCH_2_DIALOG_2_INPUT	斯克里特是怎么弄到这些的可跟你没关系！嘴巴紧点儿！别乱说！
 DIALOGDATA_SKRIT_BRANCH_2_DIALOG_3_INPUT	你也能刷新斯克里特这的货，不要钱！不过在你付钱之前可看不到它到底是啥。
-DIALOGDATA_SKRIT_BRANCH_2_DIALOG_4_INPUT	随着你变强，斯克里特给你的东西也会越来越好，记住这点
+DIALOGDATA_SKRIT_BRANCH_2_DIALOG_4_INPUT	随着你变强，斯克里特给你的东西也会越来越好，记住这点。
 DIALOGDATA_SKRIT_BRANCH_2_DIALOG_4_SELECTION_0	好，回见。
 DIALOGDATA_SKRIT_BRANCH_2_DIALOG_4_SELECTION_1	我想试试。
 DIALOGDATA_SKRIT_INTRODUCTION_BRANCH_0_DIALOG_0_INPUT	
@@ -1699,7 +1907,7 @@ DIALOGDATA_VIVIAN_BRANCH_5_DIALOG_1_INPUT	我下了决心把精力放在研究�
 DIALOGDATA_VIVIAN_BRANCH_5_DIALOG_2_INPUT	我觉得这样的研究更轻松些。而且，如果运气好收入也不低。
 DIALOGDATA_VIVIAN_BRANCH_5_DIALOG_3_INPUT	我之所以能站在这里，有自己的工坊，全是多亏了安琪拉。我打自心底尊重她，而你也该如此。
 DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_0_INPUT	好。是这样，如果你把一件可装备的武器放在附魔槽里，你可以改变它的伤害的加成来源属性。
-DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_1_INPUT	取决于你的目标是什么，你会需要找到些对应的石头。
+DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_1_INPUT	取决于你的目的，你需要找到对应的石头。
 DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_2_INPUT	转化为力量属性加成，需要力量之石。
 DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_3_INPUT	敏捷加成需要敏捷之石。
 DIALOGDATA_VIVIAN_BRANCH_6_DIALOG_4_INPUT	最后，智力加成需要魔源之石。明白了吗？总之……
@@ -1727,7 +1935,7 @@ ITEM_RARITY_COSMETIC	服装
 DAMAGE_TYPE_STRENGTH	力量
 DAMAGE_TYPE_DEXTERITY	敏捷
 DAMAGE_TYPE_MIND	智力
-DAMAGE_TYPE_PURE	Pure
+DAMAGE_TYPE_PURE	
 DIALOGDATA_SANCTUMCIVILIAN_00_LOCAL_BRANCH_MAP_HUB_SANCTUM__CLIENTNPCS__NPC_SANCTUMCIVILIAN_RED__DIALOGTRIGGER_DIALOG_0_INPUT	
 DIALOGDATA_SANCTUMCIVILIAN_00_LOCAL_BRANCH_MAP_HUB_SANCTUM__CLIENTNPCS__NPC_SANCTUMCIVILIAN_RED__DIALOGTRIGGER_DIALOG_0_INPUT_ALT_0	这是弱肉强食的世界！而大家都知道战士处于食物链的顶端。
 DIALOGDATA_SANCTUMCIVILIAN_00_LOCAL_BRANCH_MAP_HUB_SANCTUM__CLIENTNPCS__NPC_SANCTUMCIVILIAN_RED__DIALOGTRIGGER_DIALOG_0_INPUT_ALT_1	你见过回旋刃的技艺吗？那可是我一生的追求，真希望能有朝一日学会！
