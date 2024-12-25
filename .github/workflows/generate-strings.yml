@@ -49,7 +49,7 @@ jobs:
           mkdir -p build/${{ env.pack_dir }}
       - name: 下载 localyssationLanguage.json
         run: |
-          cp localyssationLanguage.json "build/Localyssation Patch zh-CN/localyssationLanguage.json"
+          cp localyssationLanguage.json "build/Localyssation Patch zh-CN/"
 
       - uses: actions/download-artifact@v4
         name: 下载 strings.tsv
