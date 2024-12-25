@@ -46,7 +46,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: 准备文件夹
         run: |
-          mkdir -p build/${{ env.pack_dir }}
+          mkdir -p "build/${{ env.pack_dir }}"
       - name: 下载 localyssationLanguage.json
         run: |
           cp localyssationLanguage.json "build/Localyssation Patch zh-CN/"
