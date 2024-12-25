@@ -49,4 +49,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Atlyss-${{ env.ATLYSS_VERSION }}_Localyssation-${{ env.LOCALYSSATION_VERSION }}_zh-CN
-          path: build/*
+          path: build/
