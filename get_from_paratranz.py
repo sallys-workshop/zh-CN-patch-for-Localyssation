@@ -17,7 +17,7 @@ HEADER = {
 
 PROJECT_ID = 12591
 API_URL = 'https://paratranz.cn/api'
-STRINGS_EXPORT_DIR = os.path.join(ROOT, 'build')
+STRINGS_EXPORT_DIR = os.path.join(ROOT, 'build/Localyssation Patch zh-CN')
 os.makedirs(STRINGS_EXPORT_DIR, exist_ok=True)
 
 
