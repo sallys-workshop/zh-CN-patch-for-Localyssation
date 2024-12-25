@@ -3,6 +3,7 @@ run-name: generate-strings
 env:
   ATLYSS_VERSION: "1.6.0-beta"
   LOCALYSSATION_VERSION: "0.0.3"
+  pack_dir: "Localyssation Patch zh-CN"
 on: 
   push:
   schedule:
@@ -17,34 +18,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Python 3.12
+      - name: 准备 Python 3.12 环境
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           architecture: 'x64'
           cache: 'pip'
-      - name: Install dependencies
+      - name: 安装依赖项
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Generate strings
+      - name: 下载并转换格式
         run: |
           python get_from_paratranz.py ${{ secrets.PARATRANZ_API_TOKEN }}
-  
-  copy-files:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Copy files
-        run: |
-          mkdir -p "build/Localyssation Patch zh-CN"
-          cp localyssationLanguage.json "build/Localyssation Patch zh-CN"
 
+      - name: 上传 strings.tsv
+        uses: actions/upload-artifact@v4
+        with:
+          name: strings.tsv
+          path: strings.tsv
+
+  
   artifact:
     runs-on: ubuntu-latest
-    needs: [build, copy-files]
+    needs: build
     steps:
-      - name: Upload strings
+      - uses: actions/checkout@v4
+      - name: 准备文件夹
+        run: |
+          mkdir -p build/${{ env.pack_dir }}
+      - name: 下载 localyssationLanguage.json
+        run: |
+          cp localyssationLanguage.json "build/Localyssation Patch zh-CN/localyssationLanguage.json"
+
+      - uses: actions/download-artifact@v4
+        name: 下载 strings.tsv
+        with:
+          name: strings.tsv
+          path: build/Localyssation Patch zh-CN/strings.tsv
+
+      - name: 生成 patch 文件
         uses: actions/upload-artifact@v4
         with:
           name: Atlyss-${{ env.ATLYSS_VERSION }}_Localyssation-${{ env.LOCALYSSATION_VERSION }}_zh-CN
