@@ -1,8 +1,8 @@
 ﻿name: generate-strings
 run-name: generate-strings
 env:
-  ATLYSS_VERSION: "1.6.0-beta"
-  LOCALYSSATION_VERSION: "0.0.3"
+  ATLYSS_VERSION: "1.6.2-beta"
+  LOCALYSSATION_VERSION: "0.0.4"
   pack_dir: "Localyssation Patch zh-CN"
 on: 
   push:
